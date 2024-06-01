@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Book App</string>
+    <string name="welcome_str">Welcome to Book App</string>
+    <string name="library_str">Library</string>
+    <string name="readers_str">Readers</string>
+    <string name="likes_str">Likes</string>
+    <string name="quotes_str">Quotes</string>
+    <string name="genre_str">Genre</string>
+    <string name="summary_str">Summary</string>
+    <string name="you_will_also_like_str">You will also like</string>
+    <string name="read_now_str">Read Now</string>
+    <string name="title_activity_splash">SplashActivity</string>
+</resources>
